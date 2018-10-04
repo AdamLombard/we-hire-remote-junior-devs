@@ -8,6 +8,7 @@ Please submit a pull request to add a company to the list.
 |Company|Description|
 |---|---|
 |[Basecamp](https://basecamp.com/about/jobs)|Project management|
+|[Health Catalyst](https://www.healthcatalyst.com/job-openings/)|Healthcare analytics|
 
 ---
 Inspired by [this post](https://dev.to/isaacandsuch/if-you-dont-hire-juniors-you-dont-deserve-seniors-48kb) by [@isaaclyman](https://github.com/isaaclyman), and [this tweet](https://twitter.com/dhh/status/1043204269770330112) by [@dhh](https://github.com/dhh)
