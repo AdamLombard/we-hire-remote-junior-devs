@@ -8,6 +8,7 @@ Please submit a pull request to add a company to the list.
 |Company|Description|
 |---|---|
 |[Basecamp](https://basecamp.com/about/jobs)|Project management|
+|[Harris Computer](https://harriscomputer.wd3.myworkdayjobs.com/1)|Enterprise software solutions|
 |[Health Catalyst](https://www.healthcatalyst.com/job-openings/)|Healthcare analytics|
 
 ---
