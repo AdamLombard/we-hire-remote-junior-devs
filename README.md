@@ -1,10 +1,9 @@
-# We Hire Remote Jr. Developers
-This is a list of companies that hire Jr. Developers in remote positions. This is not a jobs board&mdash;the companies listed below may or may not have positions currently open.
+# We Hire Remote Jr. Devs
+A list of companies that have been known to hire junior developers for remote positions.
 
-Please submit a pull request to add a company to the list.
+This is not a jobs board &mdash; the companies listed below may or may not have open junior roles at this time.
 
 ---
-
 |Company|Description|
 |---|---|
 |[Basecamp](https://basecamp.com/about/jobs)|Project management|
