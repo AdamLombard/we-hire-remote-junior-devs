@@ -3,9 +3,8 @@ A list of companies that have been known to hire junior developers for remote po
 
 This is not a jobs board &mdash; the companies listed below may or may not have open junior roles at this time.
 
----
-|Company|Description|
-|---|---|
+| Company  | Description |
+| -------- |------------ |
 |[Basecamp](https://basecamp.com/about/jobs)|Project management|
 |[Harris Computer](https://harriscomputer.wd3.myworkdayjobs.com/1)|Enterprise software solutions|
 |[Health Catalyst](https://www.healthcatalyst.com/job-openings/)|Healthcare analytics|
