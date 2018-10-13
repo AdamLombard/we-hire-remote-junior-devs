@@ -8,6 +8,7 @@ This is not a jobs board &mdash; the companies listed below may or may not have 
 |[Basecamp](https://basecamp.com/about/jobs)|Project management|
 |[Harris Computer](https://harriscomputer.wd3.myworkdayjobs.com/1)|Enterprise software solutions|
 |[Health Catalyst](https://www.healthcatalyst.com/job-openings/)|Healthcare analytics|
+|[Pixelcabin](https://pixelcabin.io/)|Shopify e-commerce solutions|
 
 ### Jobs Boards
 - [Jr.DevJobs](https://www.jrdevjobs.com/)
