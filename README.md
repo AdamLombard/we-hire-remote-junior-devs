@@ -15,6 +15,7 @@ This is not a jobs board &mdash; the companies listed below may or may not have 
 ### Jobs Boards
 - [Jr.DevJobs](https://www.jrdevjobs.com/)
 - [WeWorkRemotely](https://weworkremotely.com/)
+- [Awesome List](https://github.com/lukasz-madon/awesome-remote-job#job-boards):tm: of remote job boards
 - [Remote Work Hub](https://remoteworkhub.com/remote-jobs/)
 
 ---
