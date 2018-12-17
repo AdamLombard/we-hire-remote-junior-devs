@@ -14,6 +14,7 @@ For a junior-specific (but not necessarily remote) jobs board see [jrdevjobs.com
 |[Pixelcabin](https://pixelcabin.io/)|Shopify e-commerce solutions|
 |[Sticker Mule](https://www.stickermule.com/career/ce28dfcc-6260-4703-9b99-66c69b34493a)|Branding and STICKERS!|
 |[Toggl](https://toggl.com/jobs/)|Time tracking app|
+|[wemake.services](https://wemake.services/)|Software development|
 
 ---
 Inspired by [this post](https://dev.to/isaacandsuch/if-you-dont-hire-juniors-you-dont-deserve-seniors-48kb) by [@isaaclyman](https://github.com/isaaclyman), and [this tweet](https://twitter.com/dhh/status/1043204269770330112) by [@dhh](https://github.com/dhh)
