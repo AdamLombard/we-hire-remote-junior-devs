@@ -12,6 +12,7 @@ For a junior-specific (but not necessarily remote) jobs board see [jrdevjobs.com
 |[Harris Computer](https://harriscomputer.wd3.myworkdayjobs.com/1)|Enterprise software solutions|
 |[Health Catalyst](https://www.healthcatalyst.com/job-openings/)|Healthcare analytics|
 |[Pixelcabin](https://pixelcabin.io/)|Shopify e-commerce solutions|
+|[Scopic Software](https://scopicsoftware.com/careers/)|Custom solutions for web, mobile and desktop|
 |[Sticker Mule](https://www.stickermule.com/career/ce28dfcc-6260-4703-9b99-66c69b34493a)|Branding and STICKERS!|
 |[Toggl](https://toggl.com/jobs/)|Time tracking app|
 |[wemake.services](https://wemake.services/)|Software development|
